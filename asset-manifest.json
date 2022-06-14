@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/group_project_portfolios_code/static/css/main.bc857fca.css",
+    "main.js": "/group_project_portfolios_code/static/js/main.0da59b34.js",
+    "static/js/787.504a1c39.chunk.js": "/group_project_portfolios_code/static/js/787.504a1c39.chunk.js",
+    "static/media/Naga_Priya_Img_2.png": "/group_project_portfolios_code/static/media/Naga_Priya_Img_2.3621490fc206e540b3a6.png",
+    "static/media/ColtonW.jpg": "/group_project_portfolios_code/static/media/ColtonW.ccf8539d1b4a5342017c.jpg",
+    "static/media/LynnR.jpg": "/group_project_portfolios_code/static/media/LynnR.75fb47a218ae5b190df5.jpg",
+    "static/media/AnnieW.jpg": "/group_project_portfolios_code/static/media/AnnieW.b8c4df508eddb7ff552b.jpg",
+    "static/media/mountains3.jpg": "/group_project_portfolios_code/static/media/mountains3.cc96d9809bae7b60a394.jpg",
+    "static/media/HeidiW.jpg": "/group_project_portfolios_code/static/media/HeidiW.332e20801512bf59643f.jpg",
+    "static/media/Banner_Image.jpg": "/group_project_portfolios_code/static/media/Banner_Image.e74892c63ae18b807a95.jpg",
+    "static/media/technology1.jpg": "/group_project_portfolios_code/static/media/technology1.45f732b276c14884e6b2.jpg",
+    "static/media/Banner_Image2.jpg": "/group_project_portfolios_code/static/media/Banner_Image2.0e87b6d9a8106355042e.jpg",
+    "static/media/mountains2.jpg": "/group_project_portfolios_code/static/media/mountains2.e36cd61957d90d72f01c.jpg",
+    "static/media/career_in_tech.jpg": "/group_project_portfolios_code/static/media/career_in_tech.3f6e79f7c29cf280e31e.jpg",
+    "static/media/mountains1.jpg": "/group_project_portfolios_code/static/media/mountains1.91c7fc0f15c9f3e9c75b.jpg",
+    "static/media/Banner_Image1.jpg": "/group_project_portfolios_code/static/media/Banner_Image1.3c00abde04a16b05886d.jpg",
+    "static/media/SelvapriyaA.jpg": "/group_project_portfolios_code/static/media/SelvapriyaA.e1a1d368238a98ea84a8.jpg",
+    "static/media/RichardF.jpg": "/group_project_portfolios_code/static/media/RichardF.7a73db9a767eaaa15eb7.jpg",
+    "index.html": "/group_project_portfolios_code/index.html",
+    "main.bc857fca.css.map": "/group_project_portfolios_code/static/css/main.bc857fca.css.map",
+    "main.0da59b34.js.map": "/group_project_portfolios_code/static/js/main.0da59b34.js.map",
+    "787.504a1c39.chunk.js.map": "/group_project_portfolios_code/static/js/787.504a1c39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc857fca.css",
+    "static/js/main.0da59b34.js"
+  ]
+}

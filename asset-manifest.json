@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/group_project_portfolios_code/static/css/main.bc857fca.css",
-    "main.js": "/group_project_portfolios_code/static/js/main.0da59b34.js",
+    "main.js": "/group_project_portfolios_code/static/js/main.416fea49.js",
     "static/js/787.504a1c39.chunk.js": "/group_project_portfolios_code/static/js/787.504a1c39.chunk.js",
     "static/media/Naga_Priya_Img_2.png": "/group_project_portfolios_code/static/media/Naga_Priya_Img_2.3621490fc206e540b3a6.png",
     "static/media/ColtonW.jpg": "/group_project_portfolios_code/static/media/ColtonW.ccf8539d1b4a5342017c.jpg",
@@ -20,11 +20,11 @@
     "static/media/RichardF.jpg": "/group_project_portfolios_code/static/media/RichardF.7a73db9a767eaaa15eb7.jpg",
     "index.html": "/group_project_portfolios_code/index.html",
     "main.bc857fca.css.map": "/group_project_portfolios_code/static/css/main.bc857fca.css.map",
-    "main.0da59b34.js.map": "/group_project_portfolios_code/static/js/main.0da59b34.js.map",
+    "main.416fea49.js.map": "/group_project_portfolios_code/static/js/main.416fea49.js.map",
     "787.504a1c39.chunk.js.map": "/group_project_portfolios_code/static/js/787.504a1c39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc857fca.css",
-    "static/js/main.0da59b34.js"
+    "static/js/main.416fea49.js"
   ]
 }

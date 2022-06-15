@@ -29,43 +29,44 @@ function App() {
 
   return (
     <div className="App">
+      <h1>group_project_portfolios_code</h1>
       <Router>
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand href="/MARS-Feb2022-CohortCollaboration">
+            <Navbar.Brand href="/group_project_portfolios_code">
               MARS - Feb. 2022 Cohort Group Portfolio
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
-                <Nav.Link href="/MARS-Feb2022-CohortCollaboration">
+                <Nav.Link href="/group_project_portfolios_code">
                   Home
                 </Nav.Link>
                 <NavDropdown
                   title="February 2022 Returners"
                   id="basic-nav-dropdown"
                 >
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/Colton">
+                  <NavDropdown.Item href="/group_project_portfolios_code/Colton">
                     Colton W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/Lynn">
+                  <NavDropdown.Item href="/group_project_portfolios_code/Lynn">
                     Lynn R
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/Heidi">
+                  <NavDropdown.Item href="/group_project_portfolios_code/Heidi">
                     Heidi W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/Annie">
+                  <NavDropdown.Item href="/group_project_portfolios_code/Annie">
                     Annie W
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/NagaPriya">
+                  <NavDropdown.Item href="/group_project_portfolios_code/NagaPriya">
                     Naga Priya
                     </NavDropdown.Item>
                   <NavDropdown.Divider />
-                  <NavDropdown.Item href="/MARS-Feb2022-CohortCollaboration/Selvapriya">
+                  <NavDropdown.Item href="/group_project_portfolios_code/Selvapriya">
                      Selvapriya A 
                   </NavDropdown.Item>
                   <NavDropdown.Divider />
@@ -83,34 +84,34 @@ function App() {
           {/* DONT FORGET TO EDIT THE LINK ELEMENT NEAR YOUR CARD AS WELL */}
           <Route path="*" element={<Home />} />
           <Route
-            path="/MARS-Feb2022-CohortCollaboration/home"
+            path="/group_project_portfolios_code/home"
             element={<Home />}
           />
           <Route
-            path="/MARS-Feb2022-CohortCollaboration/Colton"
+            path="/group_project_portfolios_code/Colton"
             element={<Colton />}
           />
           <Route
-            path="/MARS-Feb2022-CohortCollaboration/Lynn"
+            path="/group_project_portfolios_code/Lynn"
             element={<AboutLynn />}
           />
           {/* <Route path='/ReturnerName' element={<ReturnerComponent />} /> */}
           <Route
-            path="/MARS-Feb2022-CohortCollaboration/Heidi"
+            path="/group_project_portfolios_code/Heidi"
             element={<AboutHeidi />}
           />
           {/* <Route path='/ReturnerName' element={<ReturnerComponent />} /> */}
 
           <Route 
-            path='/MARS-Feb2022-CohortCollaboration/Annie' 
+            path='/group_project_portfolios_code/Annie' 
             element={<AboutAnnie />} 
           /> 
           <Route 
-            path='/MARS-Feb2022-CohortCollaboration/Selvapriya' 
+            path='/group_project_portfolios_code/Selvapriya' 
             element={<AboutSelvapriya />} 
           /> 
           <Route
-            path="/MARS-Feb2022-CohortCollaboration/NagaPriya"
+            path="/group_project_portfolios_code/NagaPriya"
             element={<AboutNaga/>}
             />
 

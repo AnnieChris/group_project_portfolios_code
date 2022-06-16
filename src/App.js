@@ -50,35 +50,35 @@ function App() {
                   <NavDropdown
                     title="February 2022 Returners"
                     id="basic-nav-dropdown">
-                    <NavDropdown.Item href="/group_project_portfolios_code/Colton">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Colton">
                       Colton W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Lynn">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Lynn">
                       Lynn R
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Richard">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Richard">
                       Richard
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Heidi">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Heidi">
                       Heidi W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Annie">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Annie">
                       Annie W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/NagaPriya">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/NagaPriya">
                       Naga Priya
                       </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Selvapriya">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Selvapriya">
                       Selvapriya A 
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/Greeshma">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/Greeshma">
                       Greeshma 
                     </NavDropdown.Item>
                     {/* <NavDropdown.Divider />

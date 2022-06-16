@@ -103,7 +103,7 @@ function Home(props) {
       <Container>
         <Row xs={1} md={2} lg={4} className="g-4">
           <Col>
-            <Link to="/Colton">
+            <Link to="/group_project_portfolios_code/Colton">
               <Card>
                 <Card.Img
                   className="rounded-circle"

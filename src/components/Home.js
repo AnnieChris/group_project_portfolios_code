@@ -140,7 +140,9 @@ function Home(props) {
                 src={RichardF}
               />
               <Card.Body>
+              <Link to="/group_project_portfolios_code/Richard">
                 <Card.Title>Richard</Card.Title>
+                </Link>
                 <Card.Text>
                   Long time programmer who loves science and math.
                 </Card.Text>

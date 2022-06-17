@@ -9,7 +9,8 @@ import {
   NavDropdown,
   Row,
 } from "react-bootstrap";
-import { HashRouter as Router, Link, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Link, Routes, Route, Switch } from "react-router-dom";
+
 
 // Personal Style
 import "./App.css";
@@ -38,47 +39,47 @@ function App() {
       <Router>
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="/group_project_portfolios_code/">
               MARS - Feb. 2022 Cohort Group Portfolio
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
-                  <Nav.Link href="/">
+                  <Nav.Link href="/group_project_portfolios_code/">
                     Home
                   </Nav.Link>
                   <NavDropdown
                     title="February 2022 Returners"
                     id="basic-nav-dropdown">
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Colton">
+                    <NavDropdown.Item href="./#/Colton">
                       Colton W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Lynn">
+                    <NavDropdown.Item href="./#/Lynn">
                       Lynn R
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Richard">
+                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Richard">
                       Richard
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Heidi">
+                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Heidi">
                       Heidi W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Annie">
+                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Annie">
                       Annie W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/NagaPriya">
+                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/NagaPriya">
                       Naga Priya
                       </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Selvapriya">
+                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Selvapriya">
                       Selvapriya A 
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/./#/group_project_portfolios_code/Greeshma">
+                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Greeshma">
                       Greeshma 
                     </NavDropdown.Item>
                     {/* <NavDropdown.Divider />
@@ -100,11 +101,11 @@ function App() {
             element={<Home />}
           />
           <Route
-            path="/group_project_portfolios_code/Colton"
+            path="/Colton"
             element={<Colton />}
           />
           <Route
-            path="/group_project_portfolios_code/Lynn"
+            path="/Lynn"
             element={<AboutLynn />}
           />
           <Route

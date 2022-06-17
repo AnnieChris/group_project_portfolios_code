@@ -103,7 +103,7 @@ function Home(props) {
       <Container>
         <Row xs={1} md={2} lg={4} className="g-4">
           <Col>
-            <Link to="/group_project_portfolios_code/Colton">
+            <Link to="/Colton">
               <Card>
                 <Card.Img
                   className="rounded-circle"
@@ -121,7 +121,7 @@ function Home(props) {
             <Card>
               <Card.Img className="rounded-circle" variant="top" src={LynnR} />
               <Card.Body>
-                <Link to="/group_project_portfolios_code/Lynn">
+                <Link to="/Lynn">
                   <Card.Title>Lynn</Card.Title>
                 </Link>
                 <Card.Text>

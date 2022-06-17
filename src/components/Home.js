@@ -140,7 +140,7 @@ function Home(props) {
                 src={RichardF}
               />
               <Card.Body>
-              <Link to="/group_project_portfolios_code/Richard">
+              <Link to="/Richard">
                 <Card.Title>Richard</Card.Title>
                 </Link>
                 <Card.Text>
@@ -155,7 +155,7 @@ function Home(props) {
             <Card>
               <Card.Img className="rounded-circle" variant="top" src={HeidiW} />
               <Card.Body>
-                <Link to="/group_project_portfolios_code/Heidi">
+                <Link to="/Heidi">
                   <Card.Title>Heidi</Card.Title>
                 </Link>
                 <Card.Text>
@@ -180,7 +180,7 @@ function Home(props) {
             <Card>
               <Card.Img className="rounded-circle" variant="top" src={AnnieW} />
               <Card.Body>
-                <Link to="/group_project_portfolios_code/Annie">
+                <Link to="/Annie">
                   <Card.Title>Annie</Card.Title>
                 </Link>
                 <Card.Text>
@@ -198,7 +198,7 @@ function Home(props) {
                 src={NagaK}
               />
               <Card.Body>
-              <Link to="/group_project_portfolios_code/NagaPriya/">
+              <Link to="/NagaPriya">
                 <Card.Title>Naga Priya K</Card.Title>
                 </Link>
                 <Card.Text>Full Stack Intern, Experienced in Software Development and Testing.</Card.Text>
@@ -214,7 +214,7 @@ function Home(props) {
                 src={SelvapriyaA}
               />
               <Card.Body>
-              <Link to="/group_project_portfolios_code/Selvapriya/">
+              <Link to="/Selvapriya">
              
                 <Card.Title>Selvapriya</Card.Title>
                 </Link>

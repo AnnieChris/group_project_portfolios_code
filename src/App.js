@@ -59,27 +59,27 @@ function App() {
                       Lynn R
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Richard">
+                    <NavDropdown.Item href="./#/Richard">
                       Richard
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Heidi">
+                    <NavDropdown.Item href="./#/Heidi">
                       Heidi W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Annie">
+                    <NavDropdown.Item href="./#/Annie">
                       Annie W
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code#/group_project_portfolios_code/NagaPriya">
+                    <NavDropdown.Item href="./#/NagaPriya">
                       Naga Priya
                       </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Selvapriya">
+                    <NavDropdown.Item href="./#/Selvapriya">
                       Selvapriya A 
                     </NavDropdown.Item>
                     <NavDropdown.Divider />
-                    <NavDropdown.Item href="/group_project_portfolios_code/#/group_project_portfolios_code/Greeshma">
+                    <NavDropdown.Item href="./#/Greeshma">
                       Greeshma 
                     </NavDropdown.Item>
                     {/* <NavDropdown.Divider />
@@ -109,30 +109,30 @@ function App() {
             element={<AboutLynn />}
           />
           <Route
-            path="/group_project_portfolios_code/Richard"
+            path="/Richard"
             element={<AboutRichard />}
           />
           {/* <Route path='/ReturnerName' element={<ReturnerComponent />} /> */}
           <Route
-            path="/group_project_portfolios_code/Heidi"
+            path="/Heidi"
             element={<AboutHeidi />}
           />
           {/* <Route path='/ReturnerName' element={<ReturnerComponent />} /> */}
 
           <Route 
-            path='/group_project_portfolios_code/Annie' 
+            path='/Annie' 
             element={<AboutAnnie />} 
           /> 
           <Route 
-            path='/group_project_portfolios_code/Selvapriya' 
+            path='/Selvapriya' 
             element={<AboutSelvapriya />} 
           /> 
           <Route
-            path="/group_project_portfolios_code/NagaPriya"
+            path="/NagaPriya"
             element={<AboutNaga/>}
             />
             <Route
-            path="/group_project_portfolios_code/Greeshma"
+            path="/Greeshma"
             element={<AboutGreeshma/>}
             />
 

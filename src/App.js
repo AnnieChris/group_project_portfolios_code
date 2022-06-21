@@ -39,9 +39,9 @@ function App() {
       <Router>
         <Navbar bg="light" expand="lg">
           <Container>
-            {/* <Navbar.Brand href="/group_project_portfolios_code/">
+            <Navbar.Brand href="/group_project_portfolios_code/">
               MARS - Feb. 2022 Cohort Group Portfolio
-            </Navbar.Brand> */}
+            </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
